@@ -1,15 +1,15 @@
 #Print name <br>
-t = tiTan 
+t = tiTan <br>
 print(t)
 
-#Print interest
-i = "coding"
-i_2 = "CyberSec"
-i_3 = "Tech With All Its Aspects"
+#Print interest <br>
+i = "coding" <br>
+i_2 = "CyberSec" <br>
+i_3 = "Tech With All Its Aspects" <br>
 
-i_totall = i + i_2 + i_3
+i_totall = i + i_2 + i_3 <br>
 
-print(i_totall)
+print(i_totall) 
 
 <!---
 tiTan0964/tiTan0964 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
